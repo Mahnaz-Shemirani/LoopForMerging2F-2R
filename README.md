@@ -2,6 +2,8 @@
 
 #for loop for merging 2F or 2R files and save in another directory
 
+'''
+
 for i in {1..N};
 
 do
@@ -12,6 +14,7 @@ cat *_NAME${i}_*_2.fastq.gz > /DESTINATION PATH/NAME{i}_R2.fastq.gz
 
 done
 
+'''
 
 #Example
 
