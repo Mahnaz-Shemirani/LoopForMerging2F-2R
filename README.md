@@ -15,9 +15,9 @@
     done
 
 
-#Example
+#Example using bacterial WGS data: 
 
-#my file name format is as: *_EC1_*_1.fastq.gz for forward read and it is similar for reverse. The file's number is from 1 to 2019 as the last forward file is EC2019
+#file name format is as: *_EC1_*_1.fastq.gz for forward read and it is similar for reverse. The file's number is from 1 to 2019 as the last forward file is EC2019
 
     for i in {1..2019};
 
