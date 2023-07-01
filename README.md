@@ -1,4 +1,4 @@
-# LoopForMerging2F-2R
+# LoopForMerging2F-2R paper https://doi.org/10.1186/s12879-022-07977-0
 
 #for loop for merging 2F or 2R files and save in another directory
 
